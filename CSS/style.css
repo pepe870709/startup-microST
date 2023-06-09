@@ -6,7 +6,7 @@ html {
   font-family: 'Montserrat', sans-serif;
   background-repeat: no-repeat;
   background-size: cover;
-  background: url("../IMG/header.jpg")no-repeat center center fixed; 
+  background: url('../IMG/header.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -26,7 +26,7 @@ hr {
 h1 {
   font-size: 3em;
   font-weight: bold;
-  background: -webkit-linear-gradient(black, #FFF674 );
+  background: -webkit-linear-gradient(#FFF3D7, #FFF674 );
 
   -webkit-background-clip: text;
   -webkit-text-fill-color:transparent;
